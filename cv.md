@@ -24,7 +24,7 @@ I am result-oriented person. I am a person that striving for constant developmen
  * Technologies: HTML5; СSS3; JS (base).
  * Tools: Powerbi; Xmind; Visual Studio; Atom; WebStorm; Git.
 
-5. **Code examples**
+5. **Code examples**  
 Banners: https://github.com/anastasiyanikalayeva/Banners  
 Landing: https://anastasiyanikalayeva.github.io/procrastinate/  
 
