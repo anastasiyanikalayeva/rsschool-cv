@@ -50,7 +50,7 @@ Close work with the development department: setting tasks with business analysts
 
  * January 2016 – August 2018 – Deputy Head of customer service, Author systems
 Main responsibilities:
-Organization of department`s work: recruitment, training, activity planning, motivation, control. Work on improving the performance of employees.
+Organization of departments work: recruitment, training, activity planning, motivation, control. Work on improving the performance of employees.
 Regular reporting on department`s activities, planned changes and innovations.
 Monthly planning in accordance with the adjusted indicators and the certain budget.
 Productive interaction with other departments (it, marketing).
@@ -73,5 +73,5 @@ Master degree
 Bachelor's degree 
  * English Language School in London Bloomsbury International (English Courses)
 
-8 . **English level**  
+8. **English level**  
 I studied at BSEU at the Faculty of International Economic Relations. There I have been studing English for 4 years. I also have been to London to study English. I have stayed there for 5 weeks. Previously, I had an Upper intermediate or Advanced level. However, due to the lack of practice, it seems to me that now I have Intermediate+ level.
