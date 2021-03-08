@@ -13,7 +13,7 @@ body {
 .nav {
     margin: 0 auto;
     padding-top: 40px;
-    width: 300px;
+    width: 170px;
     display: flex;
     justify-content: space-between;
 }
